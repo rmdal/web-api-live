@@ -80,8 +80,8 @@
     "objectID": "slides.html#web-apis",
     "href": "slides.html#web-apis",
     "title": "First Contact: Web APIs",
-    "section": "",
-    "text": "What’s an API?\n\nAPI vs UI\n\nWhat is a Web API?\n\nHTTP-based API\nHTTP methods: GET, POST, etc.\nExamples: CoinGecko API and OpenAI API"
+    "section": "Web APIs",
+    "text": "Web APIs\n\nWhat’s an API?\n\nAPI vs UI\n\nWhat is a Web API?\n\nHTTP-based API\nHTTP methods: GET, POST, etc.\nExamples: CoinGecko API and OpenAI API"
   },
   {
     "objectID": "slides.html#plan-for-today",
